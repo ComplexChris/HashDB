@@ -1,0 +1,1412 @@
+
+Mon Nov 11 18:46:17 2019
++---Altered: C:\Users\Chris\Documents\Python_2.7\2019\HashDir.py
+Tue Nov 12 17:19:01 2019
++---Altered: C:\Users\Chris\Documents\Python_2.7\2019\Log.txt
+Tue Nov 12 17:20:00 2019
++---Altered: C:\Users\Chris\Documents\Python_2.7\2019\Log.txt
+Tue Dec  8 22:21:04 2020
++---Removed: C:\Users\Chris\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Removed: C:\Users\Chris\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Removed: C:\Users\Chris\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Removed: C:\Users\Chris\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Removed: C:\Users\Chris\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Removed: C:\Users\Chris\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Removed: C:\Users\Chris\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Removed: C:\Users\Chris\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ADF
++---Removed: C:\Users\Chris\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Removed: C:\Users\Chris\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Removed: C:\Users\Chris\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ABDF
++---Removed: C:\Users\Chris\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Removed: C:\Users\Chris\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ADF
+Tue Dec  8 22:24:35 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ABDF
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ADF
+
+Sat Dec 12 16:20:10 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ADF
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
+
+Sat Dec 12 16:21:06 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ADF
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
+
+Sat Dec 12 16:22:19 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ADF
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
+
+Sat Dec 12 16:23:45 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ADF
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
+
+Sat Dec 12 16:26:19 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0qIqqq.ADF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ABDF
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0udiOi.ADF
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
+
+Sat Dec 12 16:54:49 2020
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Sat Dec 12 17:08:50 2020
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Sat Dec 12 17:36:33 2020
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Sat Dec 12 19:12:33 2020
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Sat Dec 12 19:15:21 2020
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Sat Dec 12 19:15:51 2020
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Sat Dec 12 19:17:24 2020
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Sat Dec 12 19:21:21 2020
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Sat Dec 12 19:22:29 2020
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Sun Dec 13 16:18:07 2020
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Sun Dec 13 16:19:14 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Sun Dec 13 16:24:25 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Mon Dec 14 17:33:15 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Mon Dec 14 17:34:02 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Mon Dec 14 17:34:49 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Mon Dec 14 17:36:10 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Mon Dec 14 17:36:31 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Mon Dec 14 17:37:19 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Fri Dec 25 02:27:14 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Fri Dec 25 02:28:44 2020
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Fri Dec 25 02:29:27 2020
++---Altered: C:\Users\Chris\OneDrive\Documents\Archive\FAQs.txt
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\FAQ.txt
++---Removed: C:\Users\Chris\OneDrive\Documents\Archive\Z.jpg
+
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\Zip-4.4.3.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipLast.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\ZipOld1.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users - Copy.zip
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchive.exe
++---Unmodified: C:\Users\Chris\OneDrive\Documents\Archive\iArchiveBad.exe
+
+Wed Dec 30 16:29:03 2020
+
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\FAQs.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\Zip-4.4.3.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipLast.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld1.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users - Copy.zip
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchiveBad.exe
+
+Sun Jan  3 06:04:28 2021
+
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\FAQs.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\Zip-4.4.3.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipLast.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld1.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users - Copy.zip
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchiveBad.exe
+
+Sun Jan  3 06:05:39 2021
+
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\FAQs.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\Zip-4.4.3.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipLast.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld1.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users - Copy.zip
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchiveBad.exe
+
+Sun Jan  3 06:07:34 2021
+
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\FAQs.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\Zip-4.4.3.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipLast.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld1.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users - Copy.zip
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchiveBad.exe
+
+Sun Jan  3 06:08:26 2021
+
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\FAQs.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\Zip-4.4.3.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipLast.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld1.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users - Copy.zip
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchiveBad.exe
+
+Sun Jan  3 06:09:45 2021
+
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\FAQs.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\Zip-4.4.3.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipLast.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld1.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users - Copy.zip
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchiveBad.exe
+
+Sun Jan  3 06:11:19 2021
+
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\FAQs.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\Back Up Your Files to the Cloud.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\config.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Settings\filesystem.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\desktop.ini
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\index.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\keychain.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\vault.ico
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess Vault\version.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccessV3.1_win.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\DownloadSanDiskSecureAccess_Mac.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\SanDiskSecureAccess\SanDisk_SecureAccess_QSG.pdf
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\IndexerVolumeGuid
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\SanDisk\System Volume Information\WPSettings.dat
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\Zip-4.4.3.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipLast.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\ZipOld1.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users - Copy.zip
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\BACKUP\BACKUPfolder.txt
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\OLD_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\_qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0qpqqQ.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0qIqqq.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\OLDOLD\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqq4g0yIOPqq4q0uTOqK.ADF.bak
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\Old\qqqOg0yIOPqq4q0udiOi.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\_qqq4g0yIOPqq4q0uTOqK - Copy.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqq4g0yIOPqq4q0uTOqK.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ABDF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\_Users\qqqOg0yIOPqq4q0uOqTe.ADF
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.1.0.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive-5.2.7.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchive.exe
++---Unmodified: C:\\Users\\Chris\\OneDrive\\Documents\\Archive\iArchiveBad.exe
