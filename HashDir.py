@@ -1,4 +1,4 @@
-#!/usr/bin/env python2.7
+!/usr/bin/env python2.7
 
 import os, sys, ast, time, random
 
@@ -216,6 +216,7 @@ class Main():
 
 
 if __name__=='__main__':
+    ## Start main class.
     Main()
 
 #m = Main()
